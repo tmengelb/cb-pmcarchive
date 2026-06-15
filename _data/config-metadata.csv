@@ -4,7 +4,7 @@ creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-artists,Associated Artists,,,,keywords
+artists,Associated Artists,,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
