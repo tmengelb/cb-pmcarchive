@@ -8,7 +8,7 @@ artists,Associated Artists,,,DCTERMS.subject,keywords
 location,Location,,,DCTERMS.coverage,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
-source,Source,,,,
+source,Source,,true,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
