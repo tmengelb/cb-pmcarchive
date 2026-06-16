@@ -3,13 +3,13 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
 about-featured-image: demo_031
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: About the Collection
+heading: 
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -18,22 +18,34 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About the PMC Archive
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Printer's Marks and Chops Archive is a resource for private collectors, curators, researchers, and museum collections professionals to aid in the identification of the printers and publishers collaborating with artists and makers on the creation of fine art prints and other works on paper.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## What are Marks and Chops?
+Many definitions of the term “chop” or “chop mark” can be found in the literature about printmaking. One of the most comprehensive is the definition used by the International Fine Print Dealers Association (IFPDA):
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+A symbol, or logo that is either embossed or stamped on each print of a finished edition, including all proofs, as a way to identify the printer and publisher of the edition. A printer will often have his/her own individual chop that is separate from the publisher's chop.[1]
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Chop marks are an essential and tangible way to determine who worked with an artist on an edition of prints. Given the collaborative nature of printmaking, this information can be used to better understand the network of publishers, printers, and artists and their influence on one another.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+[1] “Glossary of Printmaking Terms and Techniques,” Resources, International Fine Print Dealers Association, accessed April 7, 2025, https://ifpda.org/wp-content/uploads/2021/06/IFPDA-Glossary-of-Terms-and-Techniques.pdf
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+### Project Leads
+Andrew Saluti
+Associate Professor, Program Coordinator
+Syracuse University Museum Studies
+
+Theresa Engelbrecht
+Registrar & Exhibition Manager
+Samek Art Museum, Bucknell University
+
+#### RESEARCH ASSISTANTS
+
+Abigail Shim, Syracuse University
+
+Romina Olvera, Syracuse University
+
+### Support
+Support for the Printer's Marks and Chops Archive is provided by the Syracuse Office of Undergraduate Research & Creative Engagement (The SOURCE). 
