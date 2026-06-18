@@ -5,3 +5,12 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+artists,true,true
+associated_techniques,true,true
+intaglio_specific,true,
+relief_specific,true
+lithography_specific,true
+screenprint_specific,true
+other_techniques,true
+visual_description,true
+
