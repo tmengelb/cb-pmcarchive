@@ -1,7 +1,7 @@
 color_class,color
-primary,
+primary, #5b92ba
 secondary,
-success,
+success,#ababab
 info,
 warning,
 danger,

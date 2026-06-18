@@ -41,7 +41,6 @@ custom-foot: js/browse-js.html
                         {% assign cap-field = f.field | capitalize %}
                         <button class="dropdown-item" type="button" data-field="{{ f.field }}">{{ f.facet_name | default: f.display_name | default: cap-field }}</button>
                         {% endfor %}
-                        <button class="dropdown-item" type="button" data-field="display_template">Content Type</button>
                         {% if site.data.theme.advanced-search == true %}
                         <div class="dropdown-divider"></div>
                         <button class="dropdown-item" type="button" data-field="advanced">Advanced Search...</button>

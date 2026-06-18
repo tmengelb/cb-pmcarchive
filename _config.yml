@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title:
+title: PRINTER'S MARKS AND CHOPS ARCHIVE
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 
 # description appears in meta tags and other locations
@@ -54,7 +54,7 @@ organization-name: PMC Archive
 organization-link: 
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: /assets/img/pmc-archive-logo.jpg
-organization-logo-nav: /assets/img/pmc-archive-logo.jpg
+organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
