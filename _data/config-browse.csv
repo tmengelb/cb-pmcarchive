@@ -1,9 +1,7 @@
 field,display_name,btn,hidden,sort_name,facet_name
-active_years,Active Years,,,
 subject,Mark Descriptor,true,,Mark Descriptor
-location,Location,
 associated_techniques,Associated Techniques,true,,Techniques
+artists,Associated Artists,,true,
 printers,Associated Printers,,true,
 publishers,Associated Workshops and Publishers,,true
 institutions,Major Institutional Collections,,true
-artists,Associated Artists,,true,
