@@ -18,14 +18,20 @@ padding: 2.5em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-The Printer's Marks and Chops Archive is thankful to our supporters who have assisted the project through providing funding and/or information.
+### The Printer's Marks and Chops Archive is thankful to our supporters who have assisted the project through providing funding and/or information.
+
+<br>
 
 {% include feature/image.html objectid="/assets/img/syr_logo.jpeg" link="https://undergraduateresearch.syracuse.edu/" width=25 %}
 
 Funding support for Syracuse University research assistants provided by the Syracuse Office of Undergraduate Research & Creative Engagement (The SOURCE). 
 
+<br>
+
 {% include feature/image.html objectid="/assets/img/swann_logo.jpeg" link="https://www.swanngalleries.com/" width=25 %}
-Swann Auction Galleries shared images and identifications of marks staff have encountered 
+Swann Auction Galleries continues to share images and identifications of marks found by their staff.
+
+<br>
 
 {% include feature/image.html objectid="/assets/img/annex_logo.png" link="https://www.annexgalleries.com/" width=25 %}
-Many of the sources used on this site were provided by Annex Galleries
+Scans of the several sources used to launch this resource were provided by Annex Galleries.
