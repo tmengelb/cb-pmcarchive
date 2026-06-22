@@ -5,3 +5,10 @@ artists,Associated Artists,,true,
 printers,Associated Printers,,true,
 publishers,Associated Workshops and Publishers,,true
 institutions,Major Institutional Collections,,true
+intaglio_specific,Intaglio Techniques,,true,
+relief_specific,Relief Techniques,,true,
+lithography_specific,Lithography Techniques,,true,
+screenprint_specific,Screenprint Techniques,,true,
+other_techniques,Other Techniques,,true,
+visual_description,Visual Description,,true,
+biographical_notes,Biographical Notes,,true,
