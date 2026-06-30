@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name,facet_name
-subject,Descriptor,true,,Mark Descriptor
-associated_techniques,Techniques,true,,Techniques
+subject,Descriptor,,true,Mark Descriptor
+associated_techniques,Techniques,,true,Techniques
 artists,Associated Artists,,true,
 printers,Associated Printers,,true,
 publishers,Associated Workshops and Publishers,,true

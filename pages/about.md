@@ -20,15 +20,17 @@ padding: 2.5em
 
 ## About the PMC Archive
 
-The Printer's Marks and Chops Archive is a resource for private collectors, curators, researchers, and museum collections professionals to aid in the identification of the printers and publishers collaborating with artists and makers on the creation of fine art prints and other works on paper.
+The Printers' Marks and Chops Archive [PMC Archive] is a free, web-based, searchable resource for private collectors, curators, researchers, and museum collections professionals to aid in the identification of the blind stamps, chop marks, and others marks on fine art prints and other works on paper. The PMC Archive leverages a network of institutional collections managers and curators, auction houses, dealers, publishers, and printmakers to advance the visual database. 
 
 ### What are Marks and Chops?
 
-On this site, we are referencing the marks left on prints by printers, publishers, and workshops. These can range from inked stamps to embossed marks. The latter are often called blind stamps or chop marks, and can be used to identify who worked on a particular print. The IFPDA provides a useful definition:
+Many definitions of the term “chop” or “chop mark” can be found in printmaking literature. One of the most comprehensive is the definition used by the International Fine Print Dealers Association (IFPDA):
 
-{% include feature/blockquote.html text="A symbol, or logo that is either embossed or stamped on each print of a finished edition, including all proofs, as a way to identify the printer and publisher of the edition. A printer will often have his/her own individual chop that is separate from the publisher's chop." speaker="International Fine Print Dealers Association (IFPDA)" %}
+{% include feature/blockquote.html text="**Chop Mark:** A symbol, or logo that is either embossed or stamped on each print of a finished edition, including all proofs, as a way to identify the printer and publisher of the edition. A printer will often have his/her own individual chop that is separate from the publisher's chop." speaker="International Fine Print Dealers Association (IFPDA)" link="https://ifpda.org/wp-content/uploads/2021/06/IFPDA-Glossary-of-Terms-and-Techniques.pdf" %}
 
-Chop marks are an essential and tangible way to determine who worked with an artist on an edition of prints. Given the collaborative nature of printmaking, this information can be used to better understand the network of publishers, printers, and artists and their influence on one another.
+### Why Do They Matter?
+
+Too often marginalized, marks and chops are an essential and tangible way to determine who may have worked with an artist on a print. Given the collaborative nature of printmaking, this information is invaluable to better understand the network of publishers, printers, and artists, and interpret their influence on one another.
 
 ### Project Leads
 
