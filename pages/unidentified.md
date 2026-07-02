@@ -20,7 +20,7 @@ padding: 2.5em
 <br>
 ## Do you recognize me?
 <br>
-#### The below marks are not yet identified. If you can identify any, please let us know by emailing info@printersmarks.org and referencing the number we have assigned (e.g. Unknown 001).
+#### If you can identify any of the below unknown marks, please let us know by emailing info@printersmarks.org and referencing the number we have assigned (e.g. Unknown 001).
 
 <div class="row">
   <div class="col-md-3">
@@ -28,7 +28,7 @@ padding: 2.5em
 <br> 
 {% include feature/card.html text="Seen on prints in the series *Krieg droht (War Threatens)* by Lea Grundig." header="Unknown 001" objectid="/assets/img/unidentified_001.jpg" %}
 <br>
-{% include feature/card.html text="Seen adjacent to the Collector's Press chop on an untitled lithograph edition by Ulfert S. Wilke." header="Unknown 005" objectid="/assets/img/unknown_005.jpg" %}
+{% include feature/card.html text="Seen adjacent to the Collector's Press chop on an untitled lithograph by Ulfert S. Wilke." header="Unknown 005" objectid="/assets/img/unknown_005.jpg" %}
 <br>
     {% endcapture %}
     {{ col1 | markdownify }}
@@ -46,7 +46,7 @@ padding: 2.5em
   <div class="col-md-3">
     {% capture col3 %}
 <br> 
-{% include feature/card.html text="Seen adjacent to the Littleton Studio's chop on an edition by Nancy Genn. Possibly Sandy Willcox." header="Unknown 003" objectid="/assets/img/unknown_003.jpg" %}
+{% include feature/card.html text="Seen adjacent to the Littleton Studio's chop on a print by Nancy Genn. Possibly Sandy Willcox." header="Unknown 003" objectid="/assets/img/unknown_003.jpg" %}
 <br>
     {% endcapture %}
     {{ col3 | markdownify }}
@@ -54,7 +54,7 @@ padding: 2.5em
     <div class="col-md-3">
     {% capture col4 %}
 <br> 
-{% include feature/card.html text="Seen adjacent to the Collector's Press chop on *Encounter*, a lithograph edition by Arthur Secunda." header="Unknown 004" objectid="/assets/img/unknown_004.jpg" %}
+{% include feature/card.html text="Seen adjacent to the Collector's Press chop on *Encounter*, a lithograph by Arthur Secunda." header="Unknown 004" objectid="/assets/img/unknown_004.jpg" %}
 <br>
     {% endcapture %}
     {{ col4 | markdownify }}
